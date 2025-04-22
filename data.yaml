@@ -1,0 +1,5 @@
+train: C:/LPR-5/train_split/images
+val: C:/LPR-5/valid_split/images
+
+nc: 1
+names: ['license_plate']
